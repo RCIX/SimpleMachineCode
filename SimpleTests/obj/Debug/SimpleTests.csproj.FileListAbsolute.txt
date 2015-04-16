@@ -1,0 +1,10 @@
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\SimpleMachineCode\SimpleTests\bin\Debug\SimpleTests.exe
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\SimpleMachineCode\SimpleTests\bin\Debug\SimpleTests.pdb
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\SimpleMachineCode\SimpleTests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\SimpleMachineCode\SimpleTests\obj\Debug\SimpleTests.exe
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\SimpleMachineCode\SimpleTests\obj\Debug\SimpleTests.pdb
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\SimpleMachineCode\SimpleTests\bin\Debug\SimpleMachineCode.dll
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\SimpleMachineCode\SimpleTests\bin\Debug\SimpleMachineCode.pdb
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\SimpleMachineCode\SimpleTests\bin\Debug\nunit.framework.dll
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\SimpleMachineCode\SimpleTests\bin\Debug\nunit.framework.xml
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\SimpleMachineCode\SimpleTests\bin\Debug\TestProgram1.txt

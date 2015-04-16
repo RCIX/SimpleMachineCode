@@ -1,0 +1,7 @@
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\SimpleMachineCode\SimpleMachineCode\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\SimpleMachineCode\SimpleMachineCode\bin\Debug\SimpleMachineCode.dll
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\SimpleMachineCode\SimpleMachineCode\bin\Debug\SimpleMachineCode.pdb
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\SimpleMachineCode\SimpleMachineCode\obj\Debug\SimpleMachineCode.dll
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\SimpleMachineCode\SimpleMachineCode\obj\Debug\SimpleMachineCode.pdb
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\SimpleMachineCode\SimpleMachineCode\bin\Debug\nunit.framework.dll
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\SimpleMachineCode\SimpleMachineCode\bin\Debug\nunit.framework.xml

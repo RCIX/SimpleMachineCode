@@ -1,0 +1,25 @@
+﻿0: load
+1: input
+2: output
+3: add
+4: subtract
+5: multiply
+6: divide
+7: modulus
+8: negate
+9: shift left
+10: shift right
+11: cmp
+12: jmp
+    0: unconditional
+    1: equal
+    2: not equal
+    3: above
+    4: above or equal
+    5: below
+    6: below or equal
+13: and
+14: or
+15: not
+16: xor
+255: halt

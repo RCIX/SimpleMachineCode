@@ -1,0 +1,13 @@
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\SimpleMachineCode\SimpleMachineCode\bin\Release\SimpleMachineCode.dll
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\SimpleMachineCode\SimpleMachineCode\bin\Release\SimpleMachineCode.pdb
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\SimpleMachineCode\SimpleMachineCode\bin\Release\nunit.framework.dll
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\SimpleMachineCode\SimpleMachineCode\bin\Release\nunit.framework.xml
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\SimpleMachineCode\SimpleMachineCode\obj\Release\ResolveAssemblyReference.cache
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\SimpleMachineCode\SimpleMachineCode\obj\Release\SimpleMachineCode.dll
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\SimpleMachineCode\SimpleMachineCode\obj\Release\SimpleMachineCode.pdb
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\C#\SimpleMachineCode\SimpleMachineCode\bin\Release\SimpleMachineCode.dll
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\C#\SimpleMachineCode\SimpleMachineCode\bin\Release\SimpleMachineCode.pdb
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\C#\SimpleMachineCode\SimpleMachineCode\bin\Release\nunit.framework.xml
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\C#\SimpleMachineCode\SimpleMachineCode\obj\Release\ResolveAssemblyReference.cache
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\C#\SimpleMachineCode\SimpleMachineCode\obj\Release\SimpleMachineCode.dll
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\C#\SimpleMachineCode\SimpleMachineCode\obj\Release\SimpleMachineCode.pdb
